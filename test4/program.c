@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 
-double Dodaj(double,double);
+double Dodaj(double,double);//dwie zmienne przekazane do funkcji dodaj
 
 
 int main( )
