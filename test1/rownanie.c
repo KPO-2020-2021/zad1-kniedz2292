@@ -32,6 +32,7 @@ int main() {
     printf("Wprowadzone wsplczynniki a musi byc rozny od zera.\n");
     return 1;
   }
+  
 
 
   printf(" Postac trojmianu kwadratowego: %lfx^2 + %lfx + %lf\n",TKw.a,TKw.b,TKw.c);
@@ -74,4 +75,4 @@ int main() {
 
   return 0;
 }
-
+//jedyna roznica to taka ze w c++ nie trzeba uzyc flagi -lm nie trzeba biblioteki matematycznej
