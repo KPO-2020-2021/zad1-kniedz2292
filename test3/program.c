@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "modul.c"
+#include "modul.c" //nalezalo dodac plik modul.c
 
 extern const double PI;
 extern const double E;
